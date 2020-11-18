@@ -1,0 +1,12 @@
+c:\users\pc\documents\visual studio 2013\Projects\WebTech\WebTech\bin\WebTech.dll.config
+c:\users\pc\documents\visual studio 2013\Projects\WebTech\WebTech\bin\WebTech.dll
+c:\users\pc\documents\visual studio 2013\Projects\WebTech\WebTech\bin\WebTech.pdb
+c:\users\pc\documents\visual studio 2013\Projects\WebTech\WebTech\obj\Debug\WebTech.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\WebTech\WebTech\obj\Debug\WebTech.dll
+c:\users\pc\documents\visual studio 2013\Projects\WebTech\WebTech\obj\Debug\WebTech.pdb
+D:\WebTech\WebTech\bin\WebTech.dll.config
+D:\WebTech\WebTech\bin\WebTech.dll
+D:\WebTech\WebTech\bin\WebTech.pdb
+D:\WebTech\WebTech\obj\Debug\WebTech.csprojResolveAssemblyReference.cache
+D:\WebTech\WebTech\obj\Debug\WebTech.dll
+D:\WebTech\WebTech\obj\Debug\WebTech.pdb
